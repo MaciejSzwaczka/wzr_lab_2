@@ -1,0 +1,12 @@
+liczba wezlow = 3329, liczba scian = 6656
+floor(-1.1) = -2.000000, MAX_LONG/2 = 1073741823
+srodek sfery = (-9601.687500, -250.924805, 4637.842773)
+MojObiekt->iID = 88
+Pol poczatkowe mojego obiektu = (-9601.687500, 5000.162598, 4637.842773)
+MojObiekt->iID = 41
+Pol poczatkowe mojego obiektu = (-9601.687500, 5000.162598, 4637.842773)
+MojObiekt->iID = 467
+Pol poczatkowe mojego obiektu = (-9601.687500, 5000.162598, 4637.842773)
+MojObiekt->iID = 334
+Pol poczatkowe mojego obiektu = (-9601.687500, 5000.162598, 4637.842773)
+Interakcja zosta³a zakoñczona

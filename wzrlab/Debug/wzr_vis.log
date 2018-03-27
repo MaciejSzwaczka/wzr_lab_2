@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: Dla właściwości WindowsTargetPlatformVersion po raz pierwszy jest ustawiana jakaś wartość, a tymczasem właściwość ta była już wykorzystywana w C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5).
+  wzr_vis.vcxproj -> C:\Users\maciejszwaczka\Desktop\wzrlab\Debug\wzr_vis.exe

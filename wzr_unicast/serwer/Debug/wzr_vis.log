@@ -1,0 +1,12 @@
+﻿  server.cpp
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\serwer\server.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\serwer\server.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\serwer\server.cpp(67): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\serwer\server.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\serwer\server.cpp(69): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'User *'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\serwer\server.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\serwer\server.cpp(77): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'User *'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\serwer\server.cpp(91): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\serwer\server.cpp(104): warning C4018: '>': signed/unsigned mismatch
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\serwer\server.cpp(109): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  wzr_vis.vcxproj -> C:\Users\maciejszwaczka\Desktop\wzr_lab1\wzr\wzr_unicast\serwer\Debug\wzr_vis.exe

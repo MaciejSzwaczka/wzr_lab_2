@@ -1,0 +1,22 @@
+﻿  interakcja.cpp
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(42): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(93): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(113): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(207): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(208): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(292): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(324): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(325): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(331): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(332): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(343): warning C4305: '/=': truncation from 'double' to 'float'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(350): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(389): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\maciejszwaczka\desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\interakcja.cpp(394): warning C4305: '-=': truncation from 'double' to 'float'
+glowny.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  wzr_vis.vcxproj -> C:\Users\maciejszwaczka\Desktop\wzr_lab1\wzr\wzr_unicast\wzr_client\Debug\wzr_vis.exe
